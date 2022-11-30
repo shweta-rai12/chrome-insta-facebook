@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+   
+}
+.flex-container{
+    height: 800px;
+    background-color:rgb(4, 71, 206);
+    background-color: antiquewhite;
+}
+
+
+
+h1{ 
+    position: absolute;
+    color: #1a5ee4;
+    font-size: xxx-large;
+    top: 21%;
+    left: 12%;
+}
+h2{
+   position: absolute;
+   color: black;
+   font-size: xx-large;
+    top: 30%;
+    left: 12%;
+}
+table{
+    top: 23%;
+    height: 349px;
+    width: 320px;
+    padding: 20px 40px 20px 40px;;
+    position: absolute;
+    text-align: center;
+    left: 60%;
+    background-color: rgba(22, 22, 18, 0.172);
+  border-radius: 6px;
+}
+.button{
+ background-color: #84aaf8;
+ border: 0ch;
+ border-radius:4px ;
+ padding: 10px 80px;
+ margin-bottom: 14px;
+}
+.a{
+    width: 150px;
+    border-width: none;
+    border-bottom: 10px;
+    border-bottom: white;
+}
+
+
+#hello{
+    /* border-radius: 10px; */
+    width: 100px;
+    background-color: #1a5ee4;
+    color: white;
+    word-spacing: 2px;
+
+}
+#rraj{
+    border: none;
+    width: 200px;
+}
+#raj{
+    background-color:rgb(29, 170, 29);
+    border: 0ch;
+    border-radius:4px ;
+    /* padding: 10px 80px; */
+    margin-top: 23px;
+    width: 150px;
+    height: 50px;
+    font-size:15px;
+    color: white;
+}
+.create{
+    margin: auto;
+}
+p{
+    margin: auto;
+    margin-top: 420px;
+    margin-left: 894px;
+}
